@@ -3,7 +3,7 @@ name = "SigmaOS-libva"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "libva component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
